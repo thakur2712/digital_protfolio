@@ -46,9 +46,9 @@
 
 
 
-        /* Add styles for the round profile picture */
+        /* Add styles for the round profile image */
 
-        .profile-picture {
+        . profile image {
 
             width: 100px; /* Adjust the size as needed */
 
@@ -190,9 +190,9 @@
 
         <div class="header-content">
 
-            <!-- Add your profile picture here -->
+            <!-- Add your profile image here -->
 
-            <img src="image.jpg" alt="Your Profile Picture" class="profile-picture">
+            <img src="image.jpg" alt="Your image" class="profile-picture">
 
             <h1>Deepika S</h1>
 
@@ -248,7 +248,7 @@
 
         <div class="section-content">
 
-            <h2>BSC computer science</h2>
+            BSC computer science
 
             Madras University
 
