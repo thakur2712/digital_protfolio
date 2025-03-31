@@ -250,7 +250,7 @@
 
             <h2>BSC computer science</h2>
 
-            <p<Madras University/p>
+            Madras University
 
             
 
@@ -287,19 +287,8 @@
 
         <div class="section-content">
 
-            <h2>Projects portfolio</h2>
-
-            <ul>
-
-                <li><a href="#">E Cart website</a></li>
-
-                <li><a href="#">Cloud Security IBM</a></li>
-
-                <li><a href="#">IBM chatbot</a></li>
-
-                <li><a href="#">College Portal</a></li> 
-
-                <!-- Add more project links here -->
+            <h2>Projects portfolio</h2
+ <!-- Add more project links here -->
 
             </ul>
 
