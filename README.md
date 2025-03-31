@@ -234,15 +234,7 @@
 
             <p>I'm a <b>web development</b> expert who is passionate about creating dynamic and user-friendly websites. 
 
-                I'm driven by the desire to craft high-performance web applications that enhance user experience and provide
-
-                 seamless digital solutions. With over 7 years of experience in the field, I'm dedicated to staying up to date 
-
-                 with the latest trends and innovations in the 
-
-                 web development landscape. I'm also committed to helping others learn more about web technologies, 
-
-                 best practices, and how to build secure and scalable websites.</p>
+                I'm a computer science student at a Madras University of CSI Ewart Women's Christian college Melrsopuram.I have experience with programming languages, including python, java and c++.my primary focus is an software development and cybersecurity..</p>
 
 
 
@@ -252,13 +244,13 @@
 
 
 
-    <section id="education">
+    <section id="BSC computer science">
 
         <div class="section-content">
 
-            <h2>Education</h2>
+            <h2>BSC computer science</h2>
 
-            <p>Deemed University  - Mech</p>
+            <p<Madras University/p>
 
             
 
@@ -291,11 +283,11 @@
 
 
 
-    <section id="projects">
+    <section id="projects portfolio">
 
         <div class="section-content">
 
-            <h2>Projects</h2>
+            <h2>Projects portfolio</h2>
 
             <ul>
 
