@@ -273,28 +273,13 @@
             <li>java</li>
             <li>c++</li>
             <li>html>/li>
-                
-
-            </ul>
-
-        </div>
-
-    </section>
-
-
-
-    <section id="projects portfolio">
+            <section id="projects portfolio">
 
         <div class="section-content">
 
             <h2>Projects portfolio</h2
 
-
-            </ul>
-
-        </div>
-
-    </section>
+project portfolio 
 
 
 
@@ -364,6 +349,4 @@
 
     </script>
 
-</body>
 
-</html>
