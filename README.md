@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 
 <html>
 
@@ -276,10 +276,9 @@
             <section id="projects portfolio">
 
         <div class="section-content">
+ Projects 
 
-            Projects portfolio
-
-project portfolio 
+ personal portfolio 
 
 
 
