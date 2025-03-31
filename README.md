@@ -288,7 +288,7 @@
         <div class="section-content">
 
             <h2>Projects portfolio</h2
- <!-- Add more project links here -->
+
 
             </ul>
 
