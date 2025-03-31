@@ -192,7 +192,7 @@
 
             <!-- Add your profile image here -->
 
-            <img src="image.jpg" alt="Your image" class="profile-picture">
+            <img src="image.jpg" alt="Your image" class="profile-image">
 
             <h1>Deepika S</h1>
 
@@ -272,12 +272,12 @@
             <li>Python</li>
             <li>java</li>
             <li>c++</li>
-            <li>html>/li>
+            <li>html
             <section id="projects portfolio">
 
         <div class="section-content">
 
-            <h2>Projects portfolio</h2
+            Projects portfolio
 
 project portfolio 
 
